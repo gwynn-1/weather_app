@@ -11,6 +11,7 @@ A weather app Demo by Flutter.
 - Run 'flutter pub get' to get all the needed libraries.
 - Then connect to you real Android device, or if you use Macbook, you can open a iOS simulator.
 # Third Step
+- Enter your OpenWeather Key in the file utils/url_constants.dart at the constant String apiKey to access the API.
 - Click the Debug button (there should be one in VS Code or Android Studio) and you can use the app on debug mode.
 
 # If anything goes wrong
